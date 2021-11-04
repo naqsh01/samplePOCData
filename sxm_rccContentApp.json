@@ -1,0 +1,28 @@
+{
+
+  "projectName" : "SXM_POC",
+
+  "applicationName" : "Multi-Tier Application",
+
+  "releaseName" : "Demo Enterprise Release",
+
+  "environmentName" : "Prod",
+  
+  "createInElectricFlow": true,
+  
+  "plannedStartDate": "2021-11-03",
+
+  "plannedEndDate": "2021-11-20",
+
+  "deployment": {
+
+    "durationInMillis": 2700000,
+
+    "trendUp": true,
+
+    "successCount": 12,
+
+    "failureCount": 4
+  }
+}
+
